@@ -16,7 +16,7 @@ public class CustomPreference {
         customPreference = new CustomPreference();
     }
     private static CustomPreference customPreference;
-    private final String PREF_NAME = "com.unithon3rd.team8.ticksong";
+    private final String PREF_NAME = "com.unithon3rd.team8.ticsong";
     public final static String PREF_INTRO_USER_AGREEMENT = "PREF_USER_AGREEMENT";
     public final static String PREF_MAIN_VALUE = "PREF_MAIN_VALUE";
 
